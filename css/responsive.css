@@ -1,0 +1,59 @@
+/* Extra Small devices (landscape phones, 320px and up) */
+@media (min-width: 320px) and (max-width: 575px) {
+    /* menu part start  */
+    .navbar-nav {
+        display: inherit;
+        text-align: center;
+    }
+    .navbar-light .navbar-toggler {
+        color: rgba(8, 241, 191, 0.55);
+        border-color: rgba(7, 250, 189, 0.411);
+    }
+    .navbar-light .navbar-toggler-icon {
+        background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(8, 241, 191, 0.55)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+    }
+    /* menu part end  */
+   
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767px) {
+      /* menu part start  */
+    .navbar-nav {
+        display: inherit;
+        text-align: center;
+    }
+    .navbar-light .navbar-toggler {
+        color: rgba(8, 241, 191, 0.55);
+        border-color: rgba(7, 250, 189, 0.411);
+    }
+    .navbar-light .navbar-toggler-icon {
+        background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(8, 241, 191, 0.55)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+    }
+    /* menu part end  */
+}
+/*  Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991px) {
+     /* menu part start  */
+     .navbar-nav {
+        display: inherit;
+        text-align: center;
+    }
+    .navbar-light .navbar-toggler {
+        color: rgba(8, 241, 191, 0.55);
+        border-color: rgba(7, 250, 189, 0.411);
+    }
+    .navbar-light .navbar-toggler-icon {
+        background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(8, 241, 191, 0.55)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+    }
+    /* menu part end  */
+}
+
+/*  Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199px) {
+   
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    
+}
